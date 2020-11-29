@@ -3,11 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://al-alamin.github.io/publication-type/2/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication/ble_survey/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://al-alamin.github.io/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/arup-barua/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://al-alamin.github.io/authors/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/md-abdullah-al-alamin/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/md.-shohrab-hossain/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication_types/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/tag/source-themes/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/tags/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication-type/1/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/abm-alim-al-islam/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/alvi-md-ishmam/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/amit-chakraborty/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication/digital_sinage/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/md-abdullah-al-maruf/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/md-hasanul-islam/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/salman-estyak/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/swarnendu-saikat-nandi/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/author/tarik-reza-toha/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication-type/3/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/publication/vanetsim/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,7 +122,11 @@
   </url>
   
   <url>
-    <loc>https://al-alamin.github.io/author/md-abdullah-al-alamin/</loc>
+    <loc>https://al-alamin.github.io/project/domain-fronting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/project/pcl/</loc>
   </url>
   
   <url>
@@ -23,11 +134,7 @@
   </url>
   
   <url>
-    <loc>https://al-alamin.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://al-alamin.github.io/publication/</loc>
+    <loc>https://al-alamin.github.io/project/</loc>
   </url>
   
   <url>
@@ -35,7 +142,11 @@
   </url>
   
   <url>
-    <loc>https://al-alamin.github.io/tags/</loc>
+    <loc>https://al-alamin.github.io/tag/security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://al-alamin.github.io/tag/web-development/</loc>
   </url>
   
 </urlset>
