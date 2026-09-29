@@ -1,0 +1,14 @@
+schema_version: 1
+summary: A personal website repository showcasing research and development work, with
+  tracked HTML, browser assets and publication/project pages.
+state: unknown
+intended_readers:
+- Visitors and maintainers of the research and development website.
+consult_when:
+- Maintaining the site assets, project/publication organization or website documentation.
+watch_when:
+- Changes to website HTML, browser assets or project/publication page organization.
+current_capabilities:
+- The root tree contains index.html, css/, js/, project/ and publication/ content;
+  the GitHub description establishes the website purpose.
+planned_capabilities: []
